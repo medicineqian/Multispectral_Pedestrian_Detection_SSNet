@@ -32,7 +32,7 @@ python test.py
 
 #### only thermal
 
-![image-20241018120229326.png](https://s2.loli.net/2024/10/18/OgFANh5QBbyJUD7.png)
+![image-20241018120229326.png](https://cdn-fusion.imgcdn.store/i/2024/df55a07bbc576718.png)
 
 2. llvip dataset
 
