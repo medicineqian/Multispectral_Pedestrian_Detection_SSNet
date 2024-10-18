@@ -41,6 +41,6 @@ python test.py
 ![image-20241018120330753.png](https://s2.loli.net/2024/10/18/1pabZAmGsqB6E7i.png)
 
 #### only thermal
-![image-20241018120339082.png](https://s2.loli.net/2024/10/18/Gmy5uMOtWceNIJx.png)
+![image-20241018120339082.png](https://cdn-fusion.imgcdn.store/i/2024/245c58561bfc4225.png)
 
  Remarkably, our method surpasses the CFT method by 0.63\% in the mAP metric (mAP50: 97.5, mAP: 63.6), even though the CFT method utilizes both color and thermal modalities simultaneously during the inference phase.
