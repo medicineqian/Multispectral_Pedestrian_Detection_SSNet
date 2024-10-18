@@ -15,7 +15,7 @@ python test.py
 - Run train
 
 ```python
-python test.py
+python train.py
 ```
 
 ### Detection Performance
