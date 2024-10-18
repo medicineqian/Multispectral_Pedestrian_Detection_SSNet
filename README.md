@@ -24,24 +24,24 @@ python test.py
 
 #### color and thermal 
 
-![image-20241018120048825](C:\Users\medicineqian\AppData\Roaming\Typora\typora-user-images\image-20241018120048825.png)
+![image-20241018120048825.png](https://s2.loli.net/2024/10/18/2EKqpktNBdnUCPT.png)
 
 #### only color
 
-![image-20241018120202565](C:\Users\medicineqian\AppData\Roaming\Typora\typora-user-images\image-20241018120202565.png)
+![image-20241018120202565.png](https://s2.loli.net/2024/10/18/qf3V8tMiCvcwoXB.png)
 
 #### only thermal
 
-![image-20241018120229326](C:\Users\medicineqian\AppData\Roaming\Typora\typora-user-images\image-20241018120229326.png)
+![image-20241018120229326.png](https://s2.loli.net/2024/10/18/OgFANh5QBbyJUD7.png)
 
 2. llvip dataset
 
 #### only color
 
-![image-20241018120330753](C:\Users\medicineqian\AppData\Roaming\Typora\typora-user-images\image-20241018120330753.png)
+![image-20241018120330753.png](https://s2.loli.net/2024/10/18/1pabZAmGsqB6E7i.png)
 
 #### only thermal
 
-![image-20241018120339082](C:\Users\medicineqian\AppData\Roaming\Typora\typora-user-images\image-20241018120339082.png)
+![image-20241018120339082.png](https://s2.loli.net/2024/10/18/Gmy5uMOtWceNIJx.png)
 
  Remarkably, our method surpasses the CFT method by 0.63\% in the mAP metric (mAP50: 97.5, mAP: 63.6), even though the CFT method utilizes both color and thermal modalities simultaneously during the inference phase.
