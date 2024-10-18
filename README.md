@@ -24,7 +24,7 @@ python test.py
 
 #### color and thermal 
 
-![image-20241018120048825.png](https://s2.loli.net/2024/10/18/2EKqpktNBdnUCPT.png)
+![image-20241018120048825.png](https://s2.loli.net/2024/10/18/zf1EvMpg4hsSlRD.png)
 
 #### only color
 
